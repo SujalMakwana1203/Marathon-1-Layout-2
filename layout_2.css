@@ -1,3 +1,9 @@
+.header{
+    margin-left: 9%;
+}
+.logo_title{
+    margin-left: 4%;
+}
 .icon{
     background-color: #406766;
     padding: 4%;
@@ -19,22 +25,76 @@
     background-color: #093c3a9b;
     color: white;
     margin-right: 20%;
-    padding-bottom: 20%;
-    padding-top: 7%;
-    border-radius: 0 0 120px 120px;
-    width: 47%;
+    margin-left: 50%;
+    padding-bottom: 25%;
+    padding-top: 9%;
+    border-radius: 0 0 150px 150px;
+    width: 60%;
+    
     text-align: center;
     font-weight: bolder;
     text-transform: uppercase;
 }
+
 .image{
     position: absolute;
    margin-top: 8%;
 }
 section{
-    margin-top: 65%;
+    margin-top: 75%;
+    display: flex;
 }
 .Our_services h2{
     text-align: center;
-    margin-bottom: 6%;
+    
+    margin-bottom: 8%;
+    
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #406766;
+}
+.service_content h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #406766;
+    
+}
+.service_content p{
+    text-align: justify;
+    padding-bottom: 8%;
+}
+.no h1{
+    color: #d06444;
+    font-weight: bolder;
+}
+.about_content h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.about_content p{
+    text-align: center ;
+           
+}
+.us_content{
+    background-color: #406766;
+    color: white;
+    padding: 7%;
+}
+.Contact_us{
+    background-color: #d06444;
+    color: white;
+    padding: 7%;
+}
+.site {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10%;
+    color: gray;
+    text-decoration: none;
+}
+footer{
+    padding: 0.5%;
+    background-color: #d06444;
 }
